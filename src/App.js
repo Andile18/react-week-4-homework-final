@@ -7,9 +7,9 @@ function App() {
       <h1>Weather App</h1>
       <Search />
       <footer>
-        This project was coded by Kristin Kessler and is{" "}
+        This project was coded by Zama Andile Dlamini and is{" "}
         <a
-          href="https://github.com/Krizz1103/react-week-4-homework-final"
+          href="https://github.com/Andile18"
           target="_blank"
           rel="noreferrer"
         >

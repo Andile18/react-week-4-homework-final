@@ -12,8 +12,8 @@ root.render(
 );
 
 <footer>
-  This project was coded by Kristin Kessler and is{" "}
-  <a href="https://github.com/Krizz1103/react-week-4-homework">
+  This project was coded by Zama Andile Dlamini and is{" "}
+  <a href="https://github.com/Andile18">
     {" "}
     open-source code
   </a>

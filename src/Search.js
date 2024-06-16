@@ -17,7 +17,7 @@ export default function Search() {
 
   function handleSubmit(event) {
     event.preventDefault();
-    let apiKey = "e98397944eb2234d46458f3bc9b7103f";
+    let apiKey = "53f3bc1f5d348c44be3e3754c7185573";
     let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${apiKey}&units=metric`;
     axios.get(apiUrl).then(showWeather);
   }
@@ -58,8 +58,8 @@ export default function Search() {
   }
 }
 <footer>
-  This project was coded by Kristin Kessler and is{" "}
-  <a href="https://github.com/Krizz1103/react-week-4-homework">
+  This project was coded by Zama Andile Dlamini and is{" "}
+  <a href="https://github.com/Andile18">
     {" "}
     open-source code
   </a>
